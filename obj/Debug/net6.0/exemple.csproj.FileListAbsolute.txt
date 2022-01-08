@@ -1,0 +1,15 @@
+/Users/deividarias/Documents/Workspace/C#/DigitalInovationOne/exemple/obj/Debug/net6.0/exemple.csproj.AssemblyReference.cache
+/Users/deividarias/Documents/Workspace/C#/DigitalInovationOne/exemple/obj/Debug/net6.0/exemple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deividarias/Documents/Workspace/C#/DigitalInovationOne/exemple/obj/Debug/net6.0/exemple.AssemblyInfoInputs.cache
+/Users/deividarias/Documents/Workspace/C#/DigitalInovationOne/exemple/obj/Debug/net6.0/exemple.AssemblyInfo.cs
+/Users/deividarias/Documents/Workspace/C#/DigitalInovationOne/exemple/obj/Debug/net6.0/exemple.csproj.CoreCompileInputs.cache
+/Users/deividarias/Documents/Workspace/C#/DigitalInovationOne/exemple/bin/Debug/net6.0/exemple
+/Users/deividarias/Documents/Workspace/C#/DigitalInovationOne/exemple/bin/Debug/net6.0/exemple.deps.json
+/Users/deividarias/Documents/Workspace/C#/DigitalInovationOne/exemple/bin/Debug/net6.0/exemple.runtimeconfig.json
+/Users/deividarias/Documents/Workspace/C#/DigitalInovationOne/exemple/bin/Debug/net6.0/exemple.dll
+/Users/deividarias/Documents/Workspace/C#/DigitalInovationOne/exemple/bin/Debug/net6.0/ref/exemple.dll
+/Users/deividarias/Documents/Workspace/C#/DigitalInovationOne/exemple/bin/Debug/net6.0/exemple.pdb
+/Users/deividarias/Documents/Workspace/C#/DigitalInovationOne/exemple/obj/Debug/net6.0/exemple.dll
+/Users/deividarias/Documents/Workspace/C#/DigitalInovationOne/exemple/obj/Debug/net6.0/ref/exemple.dll
+/Users/deividarias/Documents/Workspace/C#/DigitalInovationOne/exemple/obj/Debug/net6.0/exemple.pdb
+/Users/deividarias/Documents/Workspace/C#/DigitalInovationOne/exemple/obj/Debug/net6.0/exemple.genruntimeconfig.cache
